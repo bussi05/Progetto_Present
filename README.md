@@ -1,14 +1,4 @@
-# progetto present: 
-  123 movies
-# gruppo di lavoro:
-* Alessandro Pasetto
-* Alessandro Ruzzarin
-* Francesco Bussinelli
-* Francesco Capozzo
-* Giovanni Pedrolli
-* Luca Fattori
-* Luca Giorgione
-* Lorenzo Manfredotti
+# progetto present: 123 movies
 
 # descrizione progetto:
 
